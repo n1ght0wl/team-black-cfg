@@ -11,7 +11,7 @@ View active site: https://n1ght0wl.github.io/team-black-cfg/
 
 ## Screenshots
 
-Landing Page               |  Quiz                      |  Background Generator
+index page            |     Events page                  |  
 :-------------------------:|:-------------------------: |:-------------------------: |
 ![](![image](https://github.com/user-attachments/assets/a0a9b20b-1ac6-475b-8fdc-bbf2bf0de138)
 )| ![]()| ![]()   
